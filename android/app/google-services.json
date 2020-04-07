@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864123917568",
+    "firebase_url": "https://mcan-chatapp.firebaseio.com",
+    "project_id": "mcan-chatapp",
+    "storage_bucket": "mcan-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864123917568:android:a4ad95eb6b613994ea0fe5",
+        "android_client_info": {
+          "package_name": "com.example.mcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864123917568-51b2m3k0cp58a4hebvj98b13hq5j4o62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIeHb5FbiZHcjlPqAhDvtTLoviPRAemhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864123917568-51b2m3k0cp58a4hebvj98b13hq5j4o62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
